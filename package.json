@@ -1,0 +1,23 @@
+{
+  "name": "Machine_Learning",
+  "version": "1.0.0",
+  "description": "## Feel free to use",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sauravshah31/Machine_Learning.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sauravshah31/Machine_Learning/issues"
+  },
+  "homepage": "https://github.com/sauravshah31/Machine_Learning#readme",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
