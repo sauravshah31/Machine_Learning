@@ -4,19 +4,19 @@
   "description": "## Feel free to use",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "deploy": "gh-pages -d practiseQuestions"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/sauravshah31/Machine_Learning.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["Machine Learning","turorials","resources"],
+  "author": "Saurav Shah",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/sauravshah31/Machine_Learning/issues"
   },
-  "homepage": "https://github.com/sauravshah31/Machine_Learning#readme",
+  "homepage": "https://sauravshah31.github.io/Machine_Learning",
   "dependencies": {
     "gh-pages": "^2.2.0"
   }
