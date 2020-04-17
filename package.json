@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "deploy": "gh-pages -d practiseQuestions"
+    "deploy": "gh-pages -d jupyter_pynb"
   },
   "repository": {
     "type": "git",
