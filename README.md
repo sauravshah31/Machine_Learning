@@ -12,4 +12,4 @@
 	* <a href="https://sauravshah31.github.io/Machine_Learning/assignment_week0_quiz_ans.html">WEEK 1 Quiz Answer</a>
 ### WEEK 2
 * <a href="https://sauravshah31.github.io/Machine_Learning/assignment_week2.html">WEEK 2</a>
-	* <a href="https://sauravshah31.github.io/Machine_Learning/assignment_week2.html">WEEK 2 Answer</a>
+	* <a href="https://sauravshah31.github.io/Machine_Learning/assignment_week2_ans.html">WEEK 2 Answer</a>
